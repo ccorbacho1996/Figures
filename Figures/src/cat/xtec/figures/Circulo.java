@@ -8,6 +8,14 @@ public class Circulo {
 		super();
 		this.radi = radi;
 	}
+
+	public double getRadi() {
+		return radi;
+	}
+
+	public void setRadi(double radi) {
+		this.radi = radi;
+	}
 	
 	
 }
